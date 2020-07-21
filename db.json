@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 8
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 11
     },
     {
       "id": 3,
@@ -40,13 +40,19 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 3
     },
     {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 10,
+      "name": "Tsering",
+      "image": "https://m.media-amazon.com/images/I/61i8vMnNC9L._AC_SS350_.jpg",
+      "id": 11
+    },
+    {
+      "likes": 8,
+      "name": "Tsering Tsunami",
+      "image": "https://cdn2.bigcommerce.com/server3500/26633/products/2526/images/59729/Hot_Toys_-_Hellboy_-_Hellboy_collectible_figure_PR9__08950.1555578843.1000.1200.jpg?c=2",
+      "id": 12
     }
   ]
 }
